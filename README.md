@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 👋
 
 - Pronouns: he/him 👦
 - I'm a current junior in high school interested in computer science, data science, and electrical/computer engineering. ⚙💻
