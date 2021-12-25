@@ -1,7 +1,7 @@
 ### Greetings 👋
 
 - Pronouns: he/him 👦
-- I'm a current junior in high school interested in electrical/computer engineering, computer science, and data science. ⚙💻
+- Interests: Computer Engineering, Electrical Engineering, Computer Science, and Data Science (insert Mechanical Engineering) ⚙💻
 - Primary language: Java☕
 - Secondary languages: C++, C#, JavaScript, Python 🐍
 - Co-Secretary + Curriculum developer of Prospect Programming Club (we do web dev) 💻
