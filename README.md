@@ -1,7 +1,7 @@
 ### Greetings 👋
 
 - Pronouns: he/him 👦
-- Interests: Computer Engineering, Electrical Engineering, Computer Science, and Data Science (insert Mechanical Engineering) ⚙💻
+- Interests: Computer Engineering, Electrical Engineering, Computer Science, and Data Science ⚙💻
 - Primary language: Java☕
 - Secondary languages: C++, C#, JavaScript, Python 🐍
 - Co-Secretary + Curriculum developer of Prospect Programming Club (we do web dev) 💻
