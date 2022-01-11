@@ -1,7 +1,7 @@
 ### Greetings 👋
 
 - Pronouns: he/him 👦
-- Interests: EECS, MechE, and Data Science ⚙💻
+- Interests: EECS 💻, MechE ⚙, and Data Science 📊
 - Primary language: Java☕
 - Secondary languages: C++, C#, JavaScript, Python 🐍
 - Co-Secretary + Curriculum developer of Prospect Programming Club (we do web dev) 💻
