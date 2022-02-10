@@ -2,8 +2,8 @@
 
 - Pronouns: he/him 👦
 - Interests: EECS🔋, CS 🖥, and Data Science 📊
-- Primary languages: Java☕, C, C++, C#
-- Secondary languages: JavaScript, Python 🐍, PHP
+- Primary languages: Java☕, C++, C#
+- Secondary languages: C, JavaScript, Python 🐍, PHP
 - Co-Secretary + Curriculum developer of Prospect Programming Club💻
 - Current coding exploration: Coding challenges in various languages 
 - Math nerd, tech geek, science aficionado 🤓
