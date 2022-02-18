@@ -7,4 +7,4 @@
 - Co-Secretary + Curriculum developer of Prospect Programming Club💻 (JavaScript & HTML, absolute noob at CSS)
 - Current coding exploration: Coding challenges in various languages, embedded systems 📼
 - Math nerd, tech geek, science aficionado 🤓
-- Down for tutoring AP Computer Science A (got a 5) 📕
+- AP Computer Science A coach (got a 5) 📕
