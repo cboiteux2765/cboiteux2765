@@ -1,10 +1,10 @@
 ### Greetings 👋
 
 - Pronouns: he/him 👦
-- Interests: EECS🔋, CS 🖥, and Data Science 📊
-- Primary languages: Java☕, C++, C#, JavaScript
-- Secondary languages: C, Python 🐍, PHP
-- Co-Secretary + Curriculum developer of Prospect Programming Club💻 (JavaScript & HTML, absolute noob at CSS)
-- Current coding exploration: Coding challenges in various languages, embedded systems 📼
+- Interests: EECS🔋, CS 💻, and Data Science 📊
+- Primary languages: Java☕, C#, JavaScript
+- Secondary languages: C, C++, Python 🐍
+- Co-Secretary of Prospect Programming Club💻
+- Current coding exploration: Web Dev 🖥
 - Math nerd, tech geek, science aficionado 🤓
-- AP Computer Science A coach (got a 5) 📕
+- AP Computer Science A coach (got a 5, lmk if you need help) 📕
