@@ -1,7 +1,7 @@
 ### Greetings 👋
 
 - Pronouns: he/him 👦
-- Aspiring EECS, EE, CS, or Data Science Major 🔋🔌 
+- Aspiring EECS, CS, or Data Science Major 🔋🔌 
 - Aspiring Professor for Computer Science & Engineering👨‍🏫
 - Languages I work with: Java☕ (fluent), C#🟣 (fluent), JavaScript🧾 (fluent), C++🔵 (mid-fluent), Python🐍(mid-fluent)
 - Coding stuff I do: Discord Bot
