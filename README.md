@@ -1,7 +1,7 @@
 ### Greetings 👋
 
 - Pronouns: he/him 👦
-- Aspiring Software Engineer (Embedded, Game Dev, App Dev) 💻, Hardware/Electronics Engineer ⚙🔋🔌💡, or Data Scientist 📈📊
+- Aspiring Embedded Software Engineer 💻, Hardware/Electronics Engineer ⚙🔋🔌💡, or Data Scientist 📈📊
 - [Still deciding which college] '27 (EE/CompE major) 🎓
 - Languages I work with: Java☕, C#🟣, JavaScript🧾, Python🐍, C++🟦 (learning)
 - Coding stuff I do: App Dev 📱, Discord Bot🤖, Data Science 📊, Embedded Systems 📟
