@@ -1,7 +1,7 @@
 ### Greetings 👋
 
 - Pronouns: he/him 👦
-- Aspiring Embedded Software Engineer 💻⚙
+- Aspiring Software Engineer, Embedded Software/Firmware Engineer, or Data Scientist 💻⚙
 - UC Santa Barbara Electrical Engineering '27 🎓🔋🔌💡
 - Languages I work with: Java☕, C#🟣, JavaScript🧾, Python🐍, C++🟦 (newb), C🔵 (learning), HTML🟠 (newb)
 - Coding stuff I do: App Dev 📱, Discord Bot🤖, Machine Learning 📊, Embedded Systems 📟, Game Dev 🎮
