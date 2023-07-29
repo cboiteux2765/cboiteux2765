@@ -5,5 +5,4 @@
 - UC Santa Barbara Computer Engineering '27 🎓🔋💻🖥🔌💡
 - Languages I work with: Java☕, C#🟣, JavaScript🧾, Python🐍, C++🟦 (newb), C🔵 (learning)
 - Coding stuff I explored: Backend Dev 💾, Discord Bots 🤖, Machine Learning 📊, Game Dev 🎮, App Dev 📱
-- Coding stuff I'm yet to explore: Computer Networking 💻📡💻, Operating Systems ⚙, Embedded Systems 📟, Cybersecurity 🔐, Robotics 🤖
 - Coding Tutor 📚 (Java, C#, JS, Python, AP CSA): $40/hr includes hw, test prep, interactive lessons, free help between sessions, and labs/projects. More details about teaching experience on my LinkedIn ⬅
