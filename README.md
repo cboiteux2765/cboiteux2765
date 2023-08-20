@@ -1,7 +1,7 @@
 ### Greetings 👋
 
 - Pronouns: he/him 👦
-- Aspiring Software Engineer, Firmware Engineer, or Data Scientist 💻⚙
+- Aspiring Software Engineer, Data Scientist, or Computer Science Researcher 💻⚙
 - UC Santa Barbara Computer Engineering Student 🎓🔋💻🖥🔌💡
 - Languages I work with: Java☕, C#🟣, JavaScript🧾, Python🐍, C++🟦 (beginner), C🔵 (learning), HTML🟠 (beginner)
 - Coding stuff I explored: Backend Dev 💾, Discord Bots 🤖, Machine Learning 📊, Game Dev 🎮, App Dev 📱
