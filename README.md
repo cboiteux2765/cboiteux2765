@@ -1,5 +1,5 @@
 ### Greetings 👋
 
 - UC Santa Barbara Computer Engineering 🎓🔋💻🔌💡
-- Web Dev @ Data Science UCSB 🖥️📊📈
+- Eager to try out fun new projects 😀⚙️🛠️
 - Interested in Machine Learning 🤖 and GPU Programming 📟📟
