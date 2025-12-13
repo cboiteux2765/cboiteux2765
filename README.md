@@ -2,4 +2,5 @@
 
 - UC Santa Barbara Computer Engineering 🎓🔋💻🔌💡
 - Technical Development Officer @ Data Science UCSB 📊📈
+- AWS CloudWatch Lover ☁️🔍
 - Interests in Agentic AI 🤖, Embedded Software 🖨️, Parallel Computing 📟📟, Infrastructure ☁️💾
