@@ -2,4 +2,4 @@
 
 - UC Santa Barbara Computer Engineering 🎓🔋💻🔌💡
 - Technical Development Officer @ Data Science UCSB 📊📈
-- Interests in Agentic AI 🤖, Embedded Software 🖨️, Parallel Computing 📟📟, Computational Math 📐, Infrastructure ☁️💾
+- Interests in Agentic AI 🤖, Parallel Computing 📟📟, Computational Math 📐, Infrastructure ☁️💾
