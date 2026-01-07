@@ -2,4 +2,4 @@
 
 - UC Santa Barbara Computer Engineering 🎓💻🔌💡
 - Technical Development Officer @ Data Science UCSB 📊
-- Aspiring for a future in Computational Mathematics 📈📐🧮
+- Interests: AI/ML 🤖, Dev Tools ⚙️, Backend & Cloud Infra ☁️💽, Parallel Scientific Computing 📟📟📐📈
