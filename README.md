@@ -3,4 +3,4 @@
 - UC Santa Barbara Computer Engineering 🎓💻🔌💡
 - Technical Development Officer @ Data Science UCSB 📊
 - Google Apps Script Glazer 📜, AWS CloudWatch Lover 🔎☁️, Code Janitor 🧹
-- Interests: GPU Architecture 💽, Parallel Scientific Computing 📟📟📐📈, Computer Vision 🤖
+- Interests: Parallel Scientific Computing 📟📟📐📈, Deep Learning 🧠🤖, Computer Vision 📸🌄
